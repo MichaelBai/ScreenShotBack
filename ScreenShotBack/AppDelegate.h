@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 #import "TabBarViewController.h"
 
+#define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
+
 #warning 第一步
 
 #if kUseScreenShotGesture
